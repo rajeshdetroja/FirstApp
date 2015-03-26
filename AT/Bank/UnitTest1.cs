@@ -110,4 +110,40 @@ namespace Bank
             Assert.AreEqual("", r);
         }
     }
+
+    [TestFixture]
+    public class AT_UnitTest1
+    {
+        string r = string.Empty;
+
+        [SetUp]
+        public void Init()
+        {
+            r = "";
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual("", r);
+        }
+    }
+    
+    [TestFixture]
+    public class AT_UnitTest3
+    {
+        string r = string.Empty;
+
+        [SetUp]
+        public void Init()
+        {
+            r = "";
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual("", r);
+        }
+    }
 }
