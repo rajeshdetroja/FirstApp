@@ -137,13 +137,31 @@ namespace Bank
         [SetUp]
         public void Init()
         {
-            r = "";
+            r = "Raju";
         }
 
         [Test]
         public void Test_Equal()
         {
             Assert.AreEqual("", r);
+        }
+    }
+
+    [TestFixture]
+    public class AT_UnitTest3
+    {
+        int i = 45;
+
+        [SetUp]
+        public void Init()
+        {
+            i += 55;
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual(100, i);
         }
     }
 }
