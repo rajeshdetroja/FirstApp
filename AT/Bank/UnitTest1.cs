@@ -130,7 +130,7 @@ namespace Bank
     }
     
     [TestFixture]
-    public class AT_UnitTest3
+    public class AT_UnitTest2
     {
         string r = string.Empty;
 
