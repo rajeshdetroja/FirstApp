@@ -164,4 +164,58 @@ namespace Bank
             Assert.AreEqual(100, i);
         }
     }
+
+    [TestFixture]
+    public class AT_UnitTest4
+    {
+        int i = 45;
+
+        [SetUp]
+        public void Init()
+        {
+            i += 55;
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual(100, i);
+        }
+    }
+
+    [TestFixture]
+    public class AT_UnitTest5
+    {
+        int i = 45;
+
+        [SetUp]
+        public void Init()
+        {
+            i += 55;
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual(100, i);
+        }
+    }
+
+    [TestFixture]
+    public class AT_UnitTest6
+    {
+        int i = 45;
+
+        [SetUp]
+        public void Init()
+        {
+            i += 55;
+        }
+
+        [Test]
+        public void Test_Equal()
+        {
+            Assert.AreEqual(100, i);
+        }
+    }
 }
