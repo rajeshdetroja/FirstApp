@@ -1,9 +1,0 @@
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\AT_UnitTesting.dll
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\AT_UnitTesting.pdb
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\obj\Debug\AT_UnitTesting.csprojResolveAssemblyReference.cache
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\obj\Debug\AT_UnitTesting.dll
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\obj\Debug\AT_UnitTesting.pdb
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\AT.dll
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\System.Web.Mvc.dll
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\AT.pdb
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\AT_UnitTesting\bin\Debug\System.Web.Mvc.xml
