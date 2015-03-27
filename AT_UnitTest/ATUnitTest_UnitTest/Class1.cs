@@ -11,14 +11,14 @@ namespace ATUnitTest_UnitTest
     public static class Class1
     {
         [Test]
-        public void TestMethod1()
+        public static void TestMethod1()
         {
             string s = string.Empty;
 
             Assert.AreEqual("", s);
         }
     }
-    
+
     [TestFixture]
     public static class Class2
     {
