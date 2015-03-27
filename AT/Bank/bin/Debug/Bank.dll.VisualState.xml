@@ -5,6 +5,12 @@
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
     <Node UniqueName="[0-1014]D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT\Bank\bin\Debug\Bank.dll" Expanded="true" />
-    <Node UniqueName="[0-1015]Bank" Expanded="true" />
+    <Node UniqueName="[0-1000]Bank.AT_UnitTest" Expanded="true" />
+    <Node UniqueName="[0-1002]Bank.AT_UnitTest1" Expanded="true" />
+    <Node UniqueName="[0-1004]Bank.AT_UnitTest2" Expanded="true" />
+    <Node UniqueName="[0-1006]Bank.AT_UnitTest3" Expanded="true" />
+    <Node UniqueName="[0-1008]Bank.AT_UnitTest4" Expanded="true" />
+    <Node UniqueName="[0-1010]Bank.AT_UnitTest5" Expanded="true" />
+    <Node UniqueName="[0-1012]Bank.AT_UnitTest6" Expanded="true" />
   </Nodes>
 </VisualState>

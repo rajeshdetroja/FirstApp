@@ -1,12 +1,13 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace ATUnitTest_UnitTest
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             string s = string.Empty;
@@ -14,7 +15,7 @@ namespace ATUnitTest_UnitTest
             Assert.AreEqual("", s);
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod2()
         {
             string s =null;
@@ -22,7 +23,7 @@ namespace ATUnitTest_UnitTest
             Assert.AreEqual(null, s);
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod3()
         {
             string s = string.Empty;
@@ -30,7 +31,7 @@ namespace ATUnitTest_UnitTest
             Assert.AreEqual("Raju", s);
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod4()
         {
             string s = string.Empty;

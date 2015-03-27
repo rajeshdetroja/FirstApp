@@ -3,3 +3,5 @@ D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\b
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\obj\Debug\ATUnitTest_UnitTest.csprojResolveAssemblyReference.cache
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\obj\Debug\ATUnitTest_UnitTest.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\obj\Debug\ATUnitTest_UnitTest.pdb
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\nunit.framework.dll
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\nunit.framework.xml
