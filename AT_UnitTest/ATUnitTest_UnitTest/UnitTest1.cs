@@ -8,7 +8,7 @@ namespace ATUnitTest_UnitTest
     public class UnitTest1
     {
         [Test]
-        public void TestMethod1()
+        public void UnitTest1TestMethod1()
         {
             string s = string.Empty;
 
@@ -16,7 +16,7 @@ namespace ATUnitTest_UnitTest
         }
 
         [Test]
-        public void TestMethod2()
+        public void UnitTest1TestMethod2()
         {
             string s =null;
 
@@ -25,7 +25,7 @@ namespace ATUnitTest_UnitTest
 
 
         [Test]
-        public void TestMethod3()
+        public void UnitTest1TestMethod3()
         {
             string s = string.Empty;
 
@@ -33,7 +33,7 @@ namespace ATUnitTest_UnitTest
         }
 
         [Test]
-        public void TestMethod4()
+        public void UnitTest1TestMethod4()
         {
             string s = string.Empty;
 
