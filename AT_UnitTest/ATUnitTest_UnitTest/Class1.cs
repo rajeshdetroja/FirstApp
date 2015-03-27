@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ATUnitTest_UnitTest
 {
     [TestFixture]
-    public static class TestMethod1Class1
+    public static class Class1
     {
         [Test]
         public void TestMethod1()
@@ -18,7 +18,7 @@ namespace ATUnitTest_UnitTest
             Assert.AreEqual("", s);
         }
     }
-
+    
     [TestFixture]
     public static class Class2
     {
@@ -55,5 +55,5 @@ namespace ATUnitTest_UnitTest
         }
     }
 
-
+    
 }
