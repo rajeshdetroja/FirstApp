@@ -39,5 +39,7 @@ namespace ATUnitTest_UnitTest
 
             Assert.AreEqual("Null", s);
         }
+
+        TestMethod1Class1 tst = new TestMethod1Class1();        
     }
 }
