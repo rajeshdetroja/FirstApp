@@ -11,7 +11,7 @@ namespace ATUnitTest_UnitTest
     public static class TestMethod1Class1
     {
         [Test]
-        public void TestMethod1Class1()
+        public void TestMethod1()
         {
             string s = string.Empty;
 
