@@ -2,3 +2,4 @@ D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\TestFomLocal\UnitTestFomLocal\bin
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\TestFomLocal\UnitTestFomLocal\bin\Debug\UnitTestFomLocal.pdb
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\TestFomLocal\UnitTestFomLocal\obj\Debug\UnitTestFomLocal.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\TestFomLocal\UnitTestFomLocal\obj\Debug\UnitTestFomLocal.pdb
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\TestFomLocal\UnitTestFomLocal\obj\Debug\UnitTestFomLocal.csprojResolveAssemblyReference.cache
