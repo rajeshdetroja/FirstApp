@@ -25,7 +25,7 @@ namespace ATUnitTest_UnitTest
 
 
         [Test]
-        public void UnitTest1TestMethod3()
+        public void TestMethod3()
         {
             string s = string.Empty;
 
