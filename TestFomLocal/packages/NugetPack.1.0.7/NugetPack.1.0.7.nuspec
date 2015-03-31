@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NugetPack</id>
+    <version>1.0.7</version>
+    <title>NugetPack</title>
+    <authors>BizTalk Developer</authors>
+    <owners>BizTalk Developer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NugetPack:  Simple Assembly and Binding File wrapped in BTDF</description>
+    <releaseNotes>NugetPack:  Initial Release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>NugetPackBTS BTDF</tags>
+  </metadata>
+</package>

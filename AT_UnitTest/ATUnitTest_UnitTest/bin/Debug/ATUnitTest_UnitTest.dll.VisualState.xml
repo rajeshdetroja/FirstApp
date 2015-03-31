@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1000]D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\ATUnitTest_UnitTest.dll</TopNode>
-  <SelectedNode>[0-1000]D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\ATUnitTest_UnitTest.dll</SelectedNode>
+  <TopNode>[0-1012]D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\ATUnitTest_UnitTest.dll</TopNode>
+  <SelectedNode>[0-1008]ATUnitTest_UnitTest.UnitTest1</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
-  <Nodes />
+  <Nodes>
+    <Node UniqueName="[0-1012]D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\AT_UnitTest\ATUnitTest_UnitTest\bin\Debug\ATUnitTest_UnitTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]ATUnitTest_UnitTest" Expanded="true" />
+    <Node UniqueName="[0-1000]ATUnitTest_UnitTest.Class1" Expanded="true" />
+    <Node UniqueName="[0-1002]ATUnitTest_UnitTest.Class2" Expanded="true" />
+    <Node UniqueName="[0-1004]ATUnitTest_UnitTest.Class3" Expanded="true" />
+    <Node UniqueName="[0-1006]ATUnitTest_UnitTest.Class4" Expanded="true" />
+    <Node UniqueName="[0-1008]ATUnitTest_UnitTest.UnitTest1" Expanded="true" />
+  </Nodes>
 </VisualState>

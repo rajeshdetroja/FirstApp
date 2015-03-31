@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TC.NuGet.Pack.Project</id>
+    <version>1.0.1.4</version>
+    <title>NuGet Pack (Project)</title>
+    <authors>gothandy</authors>
+    <owners>gothandy</owners>
+    <licenseUrl>https://github.com/gothandy/TC.NuGet.Pack/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/gothandy/TC.NuGet.Pack</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/gothandy/TC.NuGet.Pack/master/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Update the project NuGet package automatically after every build.</description>
+    <copyright>Copyright 2014 True Clarity</copyright>
+  </metadata>
+</package>
