@@ -19,3 +19,5 @@ D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publi
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.csprojResolveAssemblyReference.cache
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.pdb
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Microsoft.Web.XmlTransform.dll
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\NuGet.Core.dll
