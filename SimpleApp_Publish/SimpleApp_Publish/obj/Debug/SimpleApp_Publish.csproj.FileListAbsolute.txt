@@ -2,7 +2,9 @@ D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publi
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\SimpleApp_Publish.pdb
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Microsoft.Web.Infrastructure.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Microsoft.Web.XmlTransform.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Newtonsoft.Json.dll
+D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\NuGet.Core.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.Helpers.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.Mvc.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.Razor.dll
@@ -16,8 +18,5 @@ D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publi
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.WebPages.xml
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.WebPages.Deployment.xml
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\System.Web.WebPages.Razor.xml
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.csprojResolveAssemblyReference.cache
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.dll
 D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\obj\Debug\SimpleApp_Publish.pdb
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\Microsoft.Web.XmlTransform.dll
-D:\Raju\10-Mar-2015\GitHubApplication\FirstApp\SimpleApp_Publish\SimpleApp_Publish\bin\NuGet.Core.dll
