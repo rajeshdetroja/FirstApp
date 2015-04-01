@@ -163,6 +163,15 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <Import Project="..\packages\TC.NuGet.Pack.Project.1.0.1.4\build\TC.NuGet.Pack.Project.targets" Condition="Exists('..\packages\TC.NuGet.Pack.Project.1.0.1.4\build\TC.NuGet.Pack.Project.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\TC.NuGet.Pack.Project.1.0.1.4\build\TC.NuGet.Pack.Project.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\TC.NuGet.Pack.Project.1.0.1.4\build\TC.NuGet.Pack.Project.targets'))" />
+    <Error Condition="!Exists('..\packages\TC.NuGet.Pack.All.1.0.1.5\build\TC.NuGet.Pack.All.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\TC.NuGet.Pack.All.1.0.1.5\build\TC.NuGet.Pack.All.targets'))" />
+  </Target>
+  <Import Project="..\packages\TC.NuGet.Pack.All.1.0.1.5\build\TC.NuGet.Pack.All.targets" Condition="Exists('..\packages\TC.NuGet.Pack.All.1.0.1.5\build\TC.NuGet.Pack.All.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
