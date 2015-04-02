@@ -11,5 +11,8 @@
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>Tag1 Tag2</tags>    
-  </metadata>  
+  </metadata>
+  <files>
+    <file src="FirstApp\Publish_NuGet\Publish_NuGet\bin\Publish_NuGet.dll" target="lib\net4.5\DataAccess.dll" />
+  </files>  
 </package>
